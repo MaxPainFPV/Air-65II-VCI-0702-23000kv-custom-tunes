@@ -1,7 +1,10 @@
-# Tune: HQProp 1211 Final Tune V2 - John Whoopman (PIDs, Filter, Rates)
+# Air 65 II Custom Tune For VCI 0702 23.000kv / HQProp 31mm 1211-3 Props 
+#Tune By Max Pain
+# See Build-Log At Discord/FPVLounge
+#
 # Enthaelt NUR: Filter (global), PID-Profile 0-3, Rateprofile 0-3
 # Alles andere (Ports, Motoren, OSD, Modes, VTX, Namen) bleibt unveraendert.
-# Betaflight 2026.6.0-alpha (MSP API 1.48) - in die CLI einfuegen, Betaflight speichert und startet neu.
+
 
 batch start
 
